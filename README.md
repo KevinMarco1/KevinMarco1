@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Marco</h1>
 <h3 align="center">I am student at Faculty of Computers and Artificial Intelligence at Cairo University</h3>
 
-- 📫 How to reach me **kevinmarco9000@gmail.com**
+- 📫 reach me at **kevinmarco9000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
