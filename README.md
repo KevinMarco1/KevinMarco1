@@ -9,11 +9,8 @@ I love coding, solving problems, and creating user-friendly applications. Here�
 
 ### About Me
 
-- 🔭 I’m currently working on a Next.js project involving canvas manipulation.
-- 🌱 I’m constantly learning and improving my skills in TypeScript, React, and Next.js.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about JavaScript, TypeScript, React, Next.js, and Tailwind CSS.
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [kevinmarcory@example.com]
 
 ### Experience
 
