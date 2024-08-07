@@ -10,7 +10,7 @@ I love coding, solving problems, and creating user-friendly applications. Here�
 ### About Me
 
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [kevinmarcory@example.com]
+- 📫 How to reach me: kevinmarcory@gmail.com
 
 ### Experience
 
@@ -167,8 +167,15 @@ analysis problems (Fourier, Laplace ).
 
 ---
 
-**Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/kevinmarcomarcory)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevinmarcomarcory/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maher-mohsen" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/KevinMarco/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maher-mohsen" height="30" width="40" />
+  </a>
+</p>
 
 Thanks for visiting! 🚀
 
