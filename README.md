@@ -49,7 +49,36 @@ Keras, AutoKeras, Ultralytics Yolo, Roboflow
 - Version Control: Git, GitHub
 
 
-### 2. Flight Messages Parser EgyptAir
+### 2. **MMDB (Movie Management Database System)**
+
+   **Description**: MMDB is a comprehensive movie database web application inspired by IMDB, designed to provide detailed information about movies and their cast members. The application offers users the ability to search, sort, and paginate through movies, view detailed movie and cast profiles, and securely access the system via Firebase authentication. The design is fully responsive, ensuring an optimal viewing experience across all devices. Additionally, the project is containerized and integrated with CI/CD pipelines through GitHub Actions for streamlined deployment and testing.
+
+   **Features**:
+
+   - **User Ratings**: 
+     - **Rate Movies**: Users can rate movies they have watched, providing valuable feedback and contributing to the overall rating displayed on each movie’s profile.
+     - **Rate Actors**: Users can also rate actors based on their performances, influencing the average rating shown on each actor’s profile.
+     - **Dynamic Rating System**: The system dynamically updates movie and actor ratings as more users submit their feedback, ensuring that ratings are always up-to-date and reflective of the latest opinions.
+   
+   - **Search, Sort, and Pagination**: Efficient navigation through the movie database with search by keyword, sorting by release date or rating, and pagination.
+   - **Movie Details**: Access comprehensive information for each movie, including trailers, ratings, duration, genre, director, writers, language, and cast details.
+   - **Cast Details**: View detailed profiles for each cast member, including their biography, past movies, awards, and personal information.
+   - **Responsive Design**: The application is fully responsive, providing a seamless viewing experience on any device, whether desktop, tablet, or mobile.
+   - **Authentication**: Secure user authentication implemented using Firebase.
+   - **Containerization and CI/CD**: The application is fully containerized using Docker, with CI/CD pipelines set up using GitHub Actions for automated deployment and testing.
+
+   **Technologies**:
+
+   - **Frontend (Web)**: Next.js, Pure css
+   - **Backend**: NestJS
+   - **Mobile**: Kotlin
+   - **Database**: Postgres
+   - **Authentication**: Firebase
+   - **CI/CD**: GitHub Actions
+   - **Containerization**: Docker
+
+
+### 3. Flight Messages Parser EgyptAir
 
 **Description:**
 
@@ -71,7 +100,7 @@ The Flight Messages Parser is a robust desktop application developed for EgyptAi
 - **Backend:** Python (for data processing, parsing and analyzing)
 - **Storage:** File System (for storing and managing Excel sheets)
 
-### 3. MyDay App
+### 4. MyDay App
 **Description:**
 MyDay App is a comprehensive wedding planner application designed to streamline the planning process for couples. This MVP (Minimum Viable Product) allows users to browse various categories of wedding services, explore vendor details, search and filter vendors, and mark their favorite vendors. Users can also create and manage a budgeted plan for their wedding. From the admin perspective, the app provides full CRUD (Create, Read, Update, Delete) capabilities for managing categories and vendors. The app ensures secure access through JWT token-based authentication and integrates with third-party services like Google and Facebook for OAuth-based login.
 
@@ -92,7 +121,7 @@ MyDay App is a comprehensive wedding planner application designed to streamline 
 - **Database:** Postgres (Supabase, DBaaS)
 
   
-### 4. Te-Parthenos App
+### 5. Te-Parthenos App
 **Description:** 
 Te-Parthenos App is a production-released system designed to manage the operations of St. Mary church's school of hymns. It features an admin dashboard and supports multiple users of different ages. The system efficiently handles user account management, material distribution, church calendar updates, exam scheduling and reservations, and certificate generation upon passing exams. Additionally, the app includes a notification system to keep users informed of important updates, and admins can review and accept sign-up forms for new users.
 
@@ -115,7 +144,7 @@ Te-Parthenos App is a production-released system designed to manage the operatio
 
 
 
-### 5. Student’s Affairs System
+### 6. Student’s Affairs System
 
 
 **Description:**
@@ -137,14 +166,14 @@ The Student’s Affairs System is a comprehensive web application designed to st
 
 
 
-### 6. Game rental System
+### 7. Game rental System
 **Description:** Game rental software that helps shop owners to manage adding, removing, updating games and
 vendors also in renting, returning and payments of games. 
 
 **Technologies:** C#, Microsoft SQL server.
 
 
-### 7. Garage Management System
+### 8. Garage Management System
 
 **Description:** 
 Garage software that helps owners manage space in garage using different configurations,
@@ -155,7 +184,7 @@ elicitation until delivery and maintenance.
 **Technologies:** Software engineering principles, Java, Solid principles, design patterns, clean code.
 
 
-### 8. Math Solver
+### 9. Math Solver
 
 **Description:** 
 Math solver software that can solve complex problems in linear algebra and frequency-time
@@ -176,7 +205,5 @@ analysis problems (Fourier, Laplace ).
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maher-mohsen" height="30" width="40" />
   </a>
 </p>
-
-Thanks for visiting! 🚀
 
 ---
