@@ -6,21 +6,6 @@ I follow the T-Shape model in my work, primarily focusing on backend development
 However, I am also proficient in modern frontend technologies for web, mobile, and desktop applications.
 I love coding, solving problems, and creating user-friendly applications. Here’s a little about me and the projects I have worked on.
 
-
-### About Me
-
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: kevinmarcory@gmail.com
-
-### Experience
-
-- **Front-end:** HTML, CSS, Tailwind, JS, React, Next.js
--  **Mobile:** Flutter, Kotlin
-- **Desktop:** Python (tkinter)
-- **Backend:** Node.js, NestJS
-- **Database:** SQL Server, Postgres, Cloud Firestore
-- **Tools & Platforms:** Git, GitHub, VS Code, Docker
-
 ---
 
 ## Projects
